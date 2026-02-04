@@ -1,0 +1,4 @@
+########### INSTALL PLUGUIN TO USE CAMERA
+Capacitor: v2 -> https://capacitorjs.com/docs/v2
+
+npm install @ionic/pwa-elements
