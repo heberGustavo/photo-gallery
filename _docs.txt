@@ -2,3 +2,4 @@
 Capacitor: v2 -> https://capacitorjs.com/docs/v2
 
 npm install @ionic/pwa-elements
+npm install @capacitor/camera
